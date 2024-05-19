@@ -5,6 +5,9 @@
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
 }
+body {
+  background: linear-gradient(to bottom, lightblue, white);
+}
 
 .wrapper {
   max-width: 75%;
